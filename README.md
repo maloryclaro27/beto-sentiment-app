@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Aplicación web interactiva desarrollada con **Streamlit** que utiliza el modelo **BETO** de Hugging Face para realizar análisis de sentimiento en **español**.  
+Aplicación web interactiva desarrollada con **Streamlit** que utiliza el modelo **BETO** de Hugging Face para realizar análisis de sentimientos en **español**.  
 Permite analizar texto libre o archivos CSV completos, clasificando opiniones en **Positivas**, **Negativas** o **Neutras** de manera automática y visual.
 
 ---
