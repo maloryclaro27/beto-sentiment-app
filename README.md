@@ -30,12 +30,16 @@ Permite analizar texto libre o archivos CSV completos, clasificando opiniones en
 
 ## 🖼️ Vista general
 
-![Interfaz principal](assets/interfaz_principal.png)
+Interfaz principal:
+
+![Interfaz principal](assets/csv.png)
 
 La aplicación permite analizar texto libre y visualizar el resultado.
 
-La aplicación permite analizar lotes de texto por CSV. (assets/csv.png)
+La aplicación permite analizar lotes de texto por CSV. 
 
-(assets/predicciones.png)
+![csv](assets/interfaz_principal.png)
+
+![predicciones](assets/predicciones.png)
 
 
