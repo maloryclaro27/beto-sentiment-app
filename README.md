@@ -28,3 +28,14 @@ Permite analizar texto libre o archivos CSV completos, clasificando opiniones en
 | 🔥 **PyTorch** | Backend de inferencia |
 | 📊 **Pandas** | Procesamiento de datos CSV |
 
+## 🖼️ Vista general
+
+![Interfaz principal](assets/interfaz_principal.png)
+
+La aplicación permite analizar texto libre y visualizar el resultado.
+
+La aplicación permite analizar lotes de texto por CSV. (assets/csv.png)
+
+(assets/predicciones.png)
+
+
